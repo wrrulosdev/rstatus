@@ -15,7 +15,7 @@
 Install **RStatus** using pip:
 
 ```bash
-pip install RStatus
+pip install rstatus
 ```
 
 > **Note:** RStatus depends on external libraries [PySocks](https://pypi.org/project/PySocks/) and [dnspython](https://pypi.org/project/dnspython/). These will be installed automatically.
